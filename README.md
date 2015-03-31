@@ -16,7 +16,7 @@
    - Shervin Emami, Khvedchenia Ievgen, Naureen Mahmood "Mastering OpenCV with Practical Computer Vision Projects" ([book-opencv])
 
 <!-- LINKS -->
-
+[cc3]:          http://creativecommons.org/licenses/by-sa/3.0/
 [list]:         https://groups.google.com/d/forum/opencv-course
 [hall-of-fame]: https://docs.google.com/spreadsheets/d/1jDvaXfK_0c7970WBNMc1WBCzr7pMyEA8nHH174-oa2k/edit#gid=0
 [labs]:         https://github.com/alekcac/opencv-course-practice/tree/master/labs
