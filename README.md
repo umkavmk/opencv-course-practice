@@ -14,6 +14,7 @@
    - Gary Bradski "Learning OpenCV: Computer Vision with the OpenCV Library"
      ([book-opencv-main])
    - Shervin Emami, Khvedchenia Ievgen, Naureen Mahmood "Mastering OpenCV with Practical Computer Vision Projects" ([book-opencv])
+ - Вы можете сдавать работы, присылая их на shishkov_dot_alexander_at_gmail_dot_com (_dot_ заменить на точку, _at_ на собаку).
 
 <!-- LINKS -->
 [cc3]:          http://creativecommons.org/licenses/by-sa/3.0/
