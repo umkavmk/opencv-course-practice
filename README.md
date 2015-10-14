@@ -16,7 +16,7 @@
      ([book-opencv-main])
    - Shervin Emami, Khvedchenia Ievgen, Naureen Mahmood "Mastering OpenCV with Practical Computer Vision Projects" ([book-opencv])
  
- - Лаботраторные работы должны сдаваться очно или как pull requests для этого репозитория
+ - Лабораторные работы должны сдаваться очно или как pull requests для этого репозитория
 
 <!-- LINKS -->
 [cc3]:          http://creativecommons.org/licenses/by-sa/3.0/
