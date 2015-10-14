@@ -21,7 +21,7 @@
 <!-- LINKS -->
 [cc3]:          http://creativecommons.org/licenses/by-sa/3.0/
 [list]:         https://groups.google.com/d/forum/opencv-course
-[hall-of-fame]: 
+[hall-of-fame]: https://docs.google.com/spreadsheets/d/1YaQARbqYPzghoB1GX9J-Gj1cpynOTitY4NPrBh-aq2U/edit#gid=0
 [labs]:         https://github.com/alekcac/opencv-course-practice/tree/master/labs
 [lections]:         https://github.com/alekcac/opencv-course-practice/tree/master/lections
 [book-opencv]:       http://www.books.ru/books/mastering-opencv-with-practical-computer-vision-projects-3621312/?show=1
